@@ -1,9 +1,0 @@
-par1   = abcdef #lervkerlkvnwen
-par2 =       g$par1$l
-           
-
-#caemvqervpoaemav
-
-par3 = mnopqr
-
-par4 = t$par2$y
