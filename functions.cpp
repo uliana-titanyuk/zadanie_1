@@ -205,7 +205,7 @@ void function() {
     }
     if (a == 2) {
         autotest();
-        nachalo_raboty();
+        function();
     }
     if (a == 0) {
         cout << "Programma zavershena" << endl;
@@ -214,7 +214,7 @@ void function() {
     }
     if (a != 1 && a != 2 && a != 0) {
         cout << "Vvedite korrektnoe znachenie" << endl;
-        nachalo_raboty();
+        function();
         exit;
     }
 }
